@@ -1,0 +1,2 @@
+# baseAPI
+Basic Django API.
